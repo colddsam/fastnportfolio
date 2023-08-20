@@ -173,14 +173,18 @@ firstTitle: I'm
 secondTitle: YOUR_NAME,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
+firstTitle: Flutter
 secondTitle: developer
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
-secondTitle: explorer.
+secondTitle: Graphic Designer.
 
--- ftd.text: I design and create functional and beautiful applications with passion and a focus on user experience and high quality.
+-- ftd.text: Hi, I'm Samrat Kumar Das from Kolkata, West Bengal.
+I'm in 3rd year of my BTech degree in Electronics and Communication Engineering which I pursuing from Narula Institute of Technology.
+I belive nothing is impossible if you think it possible.
+Currently I'm enhancing my skills in Machine Learning and Front End Development with which I want to proceed further. I love to work as a team and collaborate in open sources.
+Now I looking for an internship to applying and sharping my skills which I learning from my college and from my personal works.
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 max-width.fixed.px: 700
